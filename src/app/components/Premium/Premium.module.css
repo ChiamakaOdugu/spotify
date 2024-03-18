@@ -1,0 +1,14 @@
+.premium{
+    background-color: red;
+    text-align: center;
+    justify-content: center;
+    min-height: calc(480px - 30px);
+}
+
+.premium h2.title{
+    font-weight: 700px;
+    font-size: 38px;
+    line-height: 40px;
+    color: rgba(0, 0, 0, 1);
+    padding-top: 50px;
+}
